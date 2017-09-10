@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-1MHV9NI</Machine>
+    <WindowsUser>TeasingExponent</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>404a2920-d851-4749-92a6-9e1b28be3fb0</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\lenovo\documents\visual studio 2015\Projects\EmailApp\EmailApp\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>9B360EE08B313B0CCE0CAC849F9D3DBF213BC9799DEC3A9277596085FA22FA72</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>404a2920-d851-4749-92a6-9e1b28be3fb0_1.0.0.0_neutral__qjaqfm8rfxggg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>404a2920-d851-4749-92a6-9e1b28be3fb0_qjaqfm8rfxggg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>404a2920-d851-4749-92a6-9e1b28be3fb0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=TeasingExponent</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\lenovo\documents\visual studio 2015\Projects\EmailApp\EmailApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-06-06T06:33:01.258</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2015\Projects\EmailApp\EmailApp\bin\Debug\EmailApp.exe">
+      <PackagePath>EmailApp.exe</PackagePath>
+      <Modified>2016-06-06T06:42:12.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2015\Projects\EmailApp\EmailApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2015\Projects\EmailApp\EmailApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2015\Projects\EmailApp\EmailApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2015\Projects\EmailApp\EmailApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T16:20:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2015\Projects\EmailApp\EmailApp\bin\Debug\EmailApp.xr.xml">
+      <PackagePath>EmailApp.xr.xml</PackagePath>
+      <Modified>2016-06-06T06:42:12.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2015\Projects\EmailApp\EmailApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-06-06T06:33:00.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2015\Projects\EmailApp\EmailApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-06-06T06:42:12.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lenovo\documents\visual studio 2015\Projects\EmailApp\EmailApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-06-06T06:33:01.095</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
